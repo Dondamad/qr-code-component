@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [QR code component using HTML and CSS](https://www.frontendmentor.io/solutions/qr-code-component-using-html-css-03nkgMGB87)
-- Live Site URL: [QR code component](https://qr-code-component-weld-three.vercel.app/)
+- Live Site URL: [QR code component](https://qr-code-component-dondamad.vercel.app)
 
 ## My process
 
